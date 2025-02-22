@@ -1,7 +1,7 @@
-# <a href="https://www.linkedin.com/in/samyukta-gade/"><img width="150" align='right' src="icon/Designer.jpeg"></a>
+![Samyukta Gade](icon/Designer.jpeg)
 
-<p>
-  <a href="https://docs.google.com/document/d/1LiHdQns92kOfPfZgb9oK09CZ5PNXO03E/edit"><img width="150" align='right' src="icon\Demo.png"></a>
+<p><p align='center'>  
+<a href="https://docs.google.com/document/d/1LiHdQns92kOfPfZgb9oK09CZ5PNXO03E/edit"><img width="150" align='right' src="icon\Demo.png"></a>
 </p>
 
 <p align='center'>
