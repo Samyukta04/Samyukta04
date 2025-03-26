@@ -1,4 +1,4 @@
-![Samyukta Gade](icon/Designer.jpeg)
+![Samyukta Gade](icon/Designer-2.jpeg)
 
 <p><p align='center'>  
 <a href="https://docs.google.com/document/d/1LiHdQns92kOfPfZgb9oK09CZ5PNXO03E/edit"><img width="150" align='right' src="icon\Demo.png"></a>
