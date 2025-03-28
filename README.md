@@ -1,4 +1,4 @@
-![Samyukta Gade](icon/Designer-2.jpeg)
+![Samyukta Gade]([img](https://github.com/user-attachments/assets/ef129565-c94a-4042-9e38-25a8c764b4da))
 
 <p><p align='center'>  
 <a href="https://docs.google.com/document/d/1LiHdQns92kOfPfZgb9oK09CZ5PNXO03E/edit"><img width="150" align='right' src="icon\Demo.png"></a>
