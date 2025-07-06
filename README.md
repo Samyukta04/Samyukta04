@@ -39,7 +39,10 @@ I'm **Samyukta Gade**, a passionate **AI and full-stack developer** who loves so
 
 I believe in continuous learning and sharing knowledge with the community. Whether it's through **AI research, full-stack development, or cloud solutions**, I'm always up for a challenge!  
 
-📌 **Achievements:**  
+---
+
+### 📌 **Achievements:** 
+
 🏆 **Best Paper Award (ICRESH 2024)** – Machine Learning category (BARC, Bombay)  
 ♟️ **National-Level Chess Player** & **University Chess Club Head**  
 
