@@ -7,7 +7,7 @@
 <p align='center'>
 <!-- <a href="https://dev.to/"><img height="30" src="icon\devto.png"></a>&nbsp;&nbsp;
 <a href="https://medium.com/"><img height="30" src="icon\medium-logo.png"></a>&nbsp;&nbsp; -->
-<a href="https://www.instagram.com/some_uk_tea/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/some_uk_tea/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>
 <a href="https://www.linkedin.com/in/samyukta-gade/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
