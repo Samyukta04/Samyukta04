@@ -28,9 +28,13 @@ I'm **Samyukta Gade**, a passionate **AI and full-stack developer** who loves so
 ### 🔧 Technologies & Skills  
 
 💻 **Languages:** Java, Python, C, JavaScript, SQL 
+
 ⚙️ **Frameworks:** Spring Boot (basic), Node.js, Flask, FastAPI, PyTorch
+
 ☁️ **Cloud:** AWS, Firebase  
+
 📊 **AI/ML:** Machine Learning, Deep Learning, Computer Vision  
+
 🛠 **Dev Tools:** Docker, MATLAB  
 
 ---
