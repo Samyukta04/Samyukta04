@@ -47,7 +47,7 @@ I believe in continuous learning and sharing knowledge with the community. Wheth
 
 ### 📫 Let's Connect!  
 
-🔗 **Portfolio & Blog:** [Coming Soon]  
+🔗 **Portfolio** [Samyukta Gade](https://samyukta-gade.vercel.app/)
 💼 **LinkedIn:** [Samyukta Gade](https://www.linkedin.com/in/samyukta-gade)  
 📧 **Email:** [samyuktagade2004@gmail.com]  
 
